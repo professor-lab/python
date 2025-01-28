@@ -1,4 +1,4 @@
-def cal(a,b):
-    sum=a+b
-    print(sum)
-cal(2,3)
+def sum(a,b):
+    total=a+b
+    print(total)
+sum(2,3)
