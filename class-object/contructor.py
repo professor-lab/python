@@ -7,3 +7,5 @@ class Student:
 s1=Student("professor")
 print(s1.name)
 
+s1=Student("teacher")
+print(s1.name)
